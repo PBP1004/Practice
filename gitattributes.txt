@@ -1,5 +1,5 @@
-# Exclude secret.txt from the archive
-P2.txt export-ignore
+# Exclude Math.py from the archive
+Math.py export-ignore
 
 # Exclude the entire directory named private/
 #private/ export-ignore
