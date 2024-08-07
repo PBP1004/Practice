@@ -1,5 +1,5 @@
 # Exclude secret.txt from the archive
-secret.txt export-ignore
+P2.txt export-ignore
 
 # Exclude the entire directory named private/
-private/ export-ignore
+#private/ export-ignore
