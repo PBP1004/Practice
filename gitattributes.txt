@@ -1,5 +1,0 @@
-# Exclude Math.py from the archive
-Math.py export-ignore
-
-# Exclude the entire directory named private/
-#private/ export-ignore
